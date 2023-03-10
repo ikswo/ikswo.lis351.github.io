@@ -1,0 +1,47 @@
+* {
+	font-family: "Lucida Console", "Courier New", monospace;
+    font-variant: small-caps;
+	color: rgb(235, 44, 18);
+	text-align: center;}
+
+
+
+
+
+
+ul {
+	text-align: bottom;
+	font-size: 25px;
+	bottom: 20 px;
+	list-style-type: none;
+	margin: 0;
+	padding-right: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	overflow: hidden;
+	background-color: rgb(235, 44, 18);
+	position:absolute;
+	bottom: 50px;
+	left: 500px;
+	display: inline-block;
+  }
+
+li {
+	
+	background-color: rgb(255, 255, 255);
+	float: left;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+	
+	
+  }
+
+#content {
+	overflow: auto;
+	height: 100%;}
+.column1, .column2, .column3 {
+	float: left;
+	margin: 10px;}
